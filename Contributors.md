@@ -7,6 +7,7 @@
 git add Contributors.md# Contributors
 
 111111111111111111111111111111111
+- [ToniMorales6](https://github.com/ToniMorales6)
   [majMgCode](https://github.com/majMgCode)
   [linahamila](https://github.com/linahamila)
 - [P.P.A.K](https://github.com/ArkarMinKo)
